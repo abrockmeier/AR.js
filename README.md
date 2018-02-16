@@ -96,7 +96,7 @@ Other crazy ideas we’ve been working on include a [hole in the wall](https://t
 - At the three.js level is the main one. It is working well and efficiently
 - a-frame component - it export ```<a-marker>``` tag. It becomes real easy to use.
   It allows the things three.js extension does. Here are some slides
-  [aframe-artoolkit](http://jeromeetienne.github.io/slides/artoolkit-aframe/)
+  [aframe-artoolkit](http://abrockmeier.github.io/slides/artoolkit-aframe/)
 - webvr-polyfill: it is kind of working - still a work-in-progress
 
 # Augmented reality for the web in less than 10 lines of html
@@ -110,7 +110,7 @@ by
 <!doctype HTML>
 <html>
 <script src="https://aframe.io/releases/0.6.1/aframe.min.js"></script>
-<script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.5.0/aframe/build/aframe-ar.js"> </script>
+<script src="https://cdn.rawgit.com/abrockmeier/AR.js/1.5.0/aframe/build/aframe-ar.js"> </script>
   <body style='margin : 0px; overflow: hidden;'>
     <a-scene embedded arjs>
   	<a-marker preset="hiro">
@@ -122,7 +122,7 @@ by
 </html>
 ```
 
-See on [codepen](https://codepen.io/jeromeetienne/pen/mRqqzb) or [bl.ocks.org](https://bl.ocks.org/jeromeetienne/feeb69257803e69f18dc3ea5f4fc6d71)
+See on [codepen](https://codepen.io/abrockmeier/pen/mRqqzb) or [bl.ocks.org](https://bl.ocks.org/abrockmeier/feeb69257803e69f18dc3ea5f4fc6d71)
 
 # Posts on medium
 We started a [AR.js blog](https://medium.com/arjs), thus we can write about
@@ -162,15 +162,15 @@ The service is available [webxr.io/augmented-website](https://webxr.io/augmented
 
 Some applications:
 
-- [Pattern Marker Training](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html) :
+- [Pattern Marker Training](https://abrockmeier.github.io/AR.js/three.js/examples/marker-training/examples/generator.html) :
   Generate a [pattern marker](https://artoolkit.org/documentation/doku.php?id=3_Marker_Training:marker_training) with your own image.
-- [ARCode Generator](https://jeromeetienne.github.io/AR.js/three.js/examples/arcode.html) :
+- [ARCode Generator](https://abrockmeier.github.io/AR.js/three.js/examples/arcode.html) :
   Generator of AR-Code
-  ([source](https://github.com/jeromeetienne/AR.js/blob/master/three.js/examples/arcode.html))
-- [WebAR Playground](https://jeromeetienne.github.io/webar-playground/) :
+  ([source](https://github.com/abrockmeier/AR.js/blob/master/three.js/examples/arcode.html))
+- [WebAR Playground](https://abrockmeier.github.io/webar-playground/) :
   Playground running in WebAR with ar.js/chromiumAR
 
-[ALL EXAMPLES](https://jeromeetienne.github.io/AR.js-docs/misc/EXAMPLES.html)
+[ALL EXAMPLES](https://abrockmeier.github.io/AR.js-docs/misc/EXAMPLES.html)
 
 # Folders
 - ```/three.js``` is the extension to use it with [pure three.js](https://threejs.org)
@@ -182,10 +182,10 @@ It is **all open source** ! jsartoolkit5 is under LGPLv3 license and additional 
 And All my code in AR.js repository is under MIT license. :)
 
 For legal details, be sure to check [jsartoolkit5 license](https://github.com/artoolkit/jsartoolkit5/blob/master/LICENSE.txt)
-and [AR.js license](https://github.com/jeromeetienne/AR.js/blob/master/LICENSE.txt).
+and [AR.js license](https://github.com/abrockmeier/AR.js/blob/master/LICENSE.txt).
 
 # Change Log
-[CHANGELOG.md](https://github.com/jeromeetienne/AR.js/blob/master/CHANGELOG.md)
+[CHANGELOG.md](https://github.com/abrockmeier/AR.js/blob/master/CHANGELOG.md)
 
 # What's Next ?
 
@@ -223,11 +223,11 @@ Credits: @HelloDeadline, @sorianog
 
 # Future
 
-[FUTURE.md](https://jeromeetienne.github.io/AR.js-docs/misc/FUTURE.html)
+[FUTURE.md](https://abrockmeier.github.io/AR.js-docs/misc/FUTURE.html)
 
 # FAQ
 
-[FAQ.md](https://jeromeetienne.github.io/AR.js-docs/misc/FAQ.html)
+[FAQ.md](https://abrockmeier.github.io/AR.js-docs/misc/FAQ.html)
 
 
 
@@ -267,5 +267,5 @@ npm publish
 git checkout dev
 
 # update the a-frame codepen
-open "https://codepen.io/jeromeetienne/pen/mRqqzb?editors=1000#0"
+open "https://codepen.io/abrockmeier/pen/mRqqzb?editors=1000#0"
 ```

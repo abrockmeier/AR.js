@@ -1,13 +1,13 @@
 # AR.js - Efficient Augmented Reality for the Web
 
 The possibilities of augmented reality are countless, and we haven't even scratched the surface yet!
-I've been passionate about developing web-based AR for a [long](https://www.youtube.com/watch?v=rzLuJxTraos) [time](https://github.com/jeromeetienne/threex.webar). I would like AR to be useful for us, to stop being a promise and become a reality. This project is the result of that strong desire to actually make it happen. It's called AR.js. 
+I've been passionate about developing web-based AR for a [long](https://www.youtube.com/watch?v=rzLuJxTraos) [time](https://github.com/abrockmeier/threex.webar). I would like AR to be useful for us, to stop being a promise and become a reality. This project is the result of that strong desire to actually make it happen. It's called AR.js. 
 
 [youtube video](https://www.youtube.com/watch?v=0MtvjFg7tik)
 
 ### What is AR.js? 
 
-AR.js is a solution for efficiently doing augmented reality on the web, [available on github](https://github.com/jeromeetienne/ar.js). Let's take a detailed look at what it is: 
+AR.js is a solution for efficiently doing augmented reality on the web, [available on github](https://github.com/abrockmeier/ar.js). Let's take a detailed look at what it is: 
 
 - **Very Fast** : It runs efficiently even on mobile phones. [60 fps on my 2 year-old phone](https://twitter.com/jerome_etienne/status/831333879810236421)!
 - **Web-based** : It is a pure web solution, so no installation required. Full javascript based on three.js + jsartoolkit5
@@ -40,8 +40,8 @@ AR.js is based on standards and works on any phone with WebGL and WebRTC. It wor
 
 To try on your phone is only 2 easy steps, check it out :)
 
-1. Open this [hiro marker image](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg) in your desktop browser.
-1. Open this [augmented reality webapps](https://jeromeetienne.github.io/AR.js/three.js/examples/mobile-performance.html) in your phone browser, and point it to your screen.
+1. Open this [hiro marker image](https://abrockmeier.github.io/AR.js/data/images/HIRO.jpg) in your desktop browser.
+1. Open this [augmented reality webapps](https://abrockmeier.github.io/AR.js/three.js/examples/mobile-performance.html) in your phone browser, and point it to your screen.
 
 **You are done!** It will open a webpage which reads the phone webcam, localize a hiro marker and add 3d on top of it.
 

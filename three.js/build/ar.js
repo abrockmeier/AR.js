@@ -3530,7 +3530,7 @@ AR.Detector.prototype.datGUIOptions = {
 	}
 }
 
-// see https://github.com/jeromeetienne/threex.geometricglow/blob/master/threex.atmospherematerialdatgui.js
+// see https://github.com/abrockmeier/threex.geometricglow/blob/master/threex.atmospherematerialdatgui.js
 
 THREEx.addArucoDatGui	= function(arucoContext, datGui){
 	var datGUIOptions = arucoContext.detector.datGUIOptions
@@ -5204,7 +5204,7 @@ Object.assign( ARjs.Context.prototype, THREE.EventDispatcher.prototype );
 
 // ARjs.Context.baseURL = '../'
 // default to github page
-ARjs.Context.baseURL = 'https://jeromeetienne.github.io/AR.js/three.js/'
+ARjs.Context.baseURL = 'https://abrockmeier.github.io/AR.js/three.js/'
 ARjs.Context.REVISION = '1.5.1'
 
 

@@ -296,7 +296,7 @@
 ---
 
 - DONE do a pass on THREEx.ArToolkitSource
-  - IOS support - https://github.com/jeromeetienne/AR.js/issues/90
+  - IOS support - https://github.com/abrockmeier/AR.js/issues/90
   - support for torch - https://www.oberhofer.co/mediastreamtrack-and-its-capabilities/
   - use the new getUserMedia API with envfacing api - see IOS bugs
 - DONE update link in README.md

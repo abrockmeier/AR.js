@@ -39,7 +39,7 @@ AR.Detector.prototype.datGUIOptions = {
 	}
 }
 
-// see https://github.com/jeromeetienne/threex.geometricglow/blob/master/threex.atmospherematerialdatgui.js
+// see https://github.com/abrockmeier/threex.geometricglow/blob/master/threex.atmospherematerialdatgui.js
 
 THREEx.addArucoDatGui	= function(arucoContext, datGui){
 	var datGUIOptions = arucoContext.detector.datGUIOptions

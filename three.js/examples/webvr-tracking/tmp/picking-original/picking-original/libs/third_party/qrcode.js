@@ -6,7 +6,7 @@
  * 
  * @author davidshimjs
  * @see <a href="http://www.d-project.com/" target="_blank">http://www.d-project.com/</a>
- * @see <a href="http://jeromeetienne.github.com/jquery-qrcode/" target="_blank">http://jeromeetienne.github.com/jquery-qrcode/</a>
+ * @see <a href="http://abrockmeier.github.com/jquery-qrcode/" target="_blank">http://abrockmeier.github.com/jquery-qrcode/</a>
  */
 var QRCode;
 

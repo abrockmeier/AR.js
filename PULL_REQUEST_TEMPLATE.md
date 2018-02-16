@@ -5,7 +5,7 @@
 ** Can it be referenced to an Issue? If so what is the issue # ?**
 
 **How can we test it?**
-<!-- All information can be found about our tests in https://github.com/jeromeetienne/AR.js/blob/master/test/TODO.md -->
+<!-- All information can be found about our tests in https://github.com/abrockmeier/AR.js/blob/master/test/TODO.md -->
 <!-- At the moment we don't explicitly require tests, because it's not streamlined yet -->
 **Summary**
 <!-- State here what problem the PR solves and what is the proposed solution -->

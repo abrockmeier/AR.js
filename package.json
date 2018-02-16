@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeromeetienne/AR.js.git"
+    "url": "git+https://github.com/abrockmeier/AR.js.git"
   },
   "keywords": [
     "AR",
@@ -18,7 +18,7 @@
   "author": "jerome.etienne@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jeromeetienne/AR.js/issues"
+    "url": "https://github.com/abrockmeier/AR.js/issues"
   },
-  "homepage": "https://github.com/jeromeetienne/AR.js#readme"
+  "homepage": "https://github.com/abrockmeier/AR.js#readme"
 }

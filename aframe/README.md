@@ -17,15 +17,15 @@ Augmented reality for a-frame.
 # Show, Don't Tell
 Here are the demos
 
-- [basic.html](https://jeromeetienne.github.io/AR.js/aframe/examples/basic.html) 
+- [basic.html](https://abrockmeier.github.io/AR.js/aframe/examples/basic.html) 
 basic minimal examples. Good to get started
-<!-- - [demo.html](https://jeromeetienne.github.io/AR.js/aframe/examples/demo.html) 
+<!-- - [demo.html](https://abrockmeier.github.io/AR.js/aframe/examples/demo.html) 
 shows you all the possibilities of aframe-ar. You can play around -->
-- [marker-camera.html](https://jeromeetienne.github.io/AR.js/aframe/examples/marker-camera.html):
+- [marker-camera.html](https://abrockmeier.github.io/AR.js/aframe/examples/marker-camera.html):
 Move the camera instead of using the usual "camera looking toward negative-z and modelViewMatrix"
-- [multiple-independent-markers.html](https://jeromeetienne.github.io/AR.js/aframe/examples/multiple-independent-markers.html):
+- [multiple-independent-markers.html](https://abrockmeier.github.io/AR.js/aframe/examples/multiple-independent-markers.html):
 Handle multiple indepant markers in a single scene.
-<!-- - [hatsune-minecraft.html](https://jeromeetienne.github.io/AR.js/aframe/examples/minecraft.html): 
+<!-- - [hatsune-minecraft.html](https://abrockmeier.github.io/AR.js/aframe/examples/minecraft.html): 
 include a hatsune miku or minecraft avatar on the marker -->
 
 # artoolkit system
@@ -82,7 +82,7 @@ modelView is able to provide multiple *independent* markers.
 
 # Links
 
-- [slides about aframe-ar](http://jeromeetienne.github.io/slides/artoolkit-aframe/)
+- [slides about aframe-ar](http://abrockmeier.github.io/slides/artoolkit-aframe/)
 - Augmented reality is about [understand the view matrix](http://www.3dgep.com/understanding-the-view-matrix/)
 - [jsartoolkit5](https://github.com/artoolkit/jsartoolkit5)
 - [artoolkit5](https://github.com/artoolkit/artoolkit5/)
@@ -93,4 +93,4 @@ modelView is able to provide multiple *independent* markers.
 - webar-artoolkit: webvr api with artoolkit as positional tracking
   - demo with a simple scene at 0,0,0 and the camera handled as the phone
   - may be related to the threex thing
-- do a better codepen https://codepen.io/jeromeetienne/pen/mRqqzb?editors=1000#0
+- do a better codepen https://codepen.io/abrockmeier/pen/mRqqzb?editors=1000#0
